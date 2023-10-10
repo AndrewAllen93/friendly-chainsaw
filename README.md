@@ -1,4 +1,6 @@
 # friendly-chainsaw
+# Worked with Zach Lyda and Sam Johnson
+
 # Installed necessary packages
 # Created Logo class along with constructor method with array of different shape options
 # Generate methods for the 3 different shapes
